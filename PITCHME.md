@@ -1,6 +1,4 @@
 # AR.Drone Navigation
-## AR.Drone Navigation
-### AR.Drone Navigation
 
 ---
 
@@ -10,7 +8,7 @@
 
 ---
 
-#### But... why???
+## Why study this problem?
 
 +++
 
@@ -25,6 +23,8 @@
 ### The 'uber task'
 
 ---
+
+
 
 
 
