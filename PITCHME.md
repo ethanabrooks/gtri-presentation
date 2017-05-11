@@ -24,6 +24,26 @@
 
 ---
 
+## Current approach
+
++++
+
+### A3C
+
++++
+
+### ROS
+
++++
+
+### Docker
+
++++
+
+### Bash
+
+---
+
 
 
 
