@@ -1,4 +1,6 @@
+# AR.Drone Navigation
 ## AR.Drone Navigation
+### AR.Drone Navigation
 
 ---
 
@@ -8,9 +10,22 @@
 
 ---
 
-#### What's interesting about this task?
+#### But... why???
+
++++
+
+### Planning
+
++++
+
+### Danger
+
++++
+
+### The 'uber task'
 
 ---
+
 
 
 ## The Kitchen Sink
